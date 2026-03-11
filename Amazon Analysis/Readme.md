@@ -24,11 +24,17 @@ Key features of the analysis:
 ![Price vs Discount](Amazon3.png)
 ![Price vs Discount](Amazon6.png)
 
-### Rating Trends by Brand
-![Rating Trends](./assets/rating_trends.png)
+### Corelation Matrix
+![Corelation Matrix](Amazon1.png)
 
-### Category-wise Insights
-![Category Insights](./assets/category_insights.png)
+### Ratings 
+![Ratings](Amazon2.png)
+
+### Top 10 Category
+![Top 10 Category](Amazon4.png)
+
+### Conclusions
+![Conclusions](Amazon5.png)
 
 ## Dataset
 - **Rows:** ~10,000+ product records
