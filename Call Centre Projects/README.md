@@ -19,4 +19,4 @@ Dashboard Design
 Data Analysis
 
 ## Dashboard Preview
-![Dashboard](Screenshot 2026-03-11 002401.png)
+![Dashboard](01callcentre.png)
