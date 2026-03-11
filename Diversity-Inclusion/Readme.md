@@ -1,11 +1,10 @@
 # Diversity Analysis Dashboard
 
 ## Project Overview
-This project analyses diversity data to understand patterns across different groups. Using Python for data cleaning and exploratory analysis, and Power BI for interactive dashboards, the project helps visualize key metrics such as gender distribution, age groups, departmental representation, and other diversity indicators. The insights enable data-driven decisions to improve inclusivity and representation.
+This project analyses diversity data to understand patterns across different groups. Using Power BI for data cleaning, exploratory analysis and for interactive dashboards, the project helps visualize key metrics such as gender distribution, age groups, departmental representation, and other diversity indicators. The insights enable data-driven decisions to improve inclusivity and representation.
 
 ## Tools Used
-- **Power BI** – Interactive dashboards, filtering, and KPI visualization  
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn) – Data cleaning, transformation, and analysis  
+- **Power BI** – Interactive dashboards, filtering, and KPI visualization, Data cleaning, transformation, and analysis  
 - **Excel / SQL** – Data preparation and querying  
 
 ## Key Insights
@@ -21,5 +20,4 @@ This project analyses diversity data to understand patterns across different gro
 
 ## Dataset
 - Rows: [Number of records, e.g., 5,000+ employees/customers]  
-- Columns: Gender, Age, Department, Tenure, Ethnicity, Churn/Retention Status (if applicable)  
-- Dataset source: [mention source if allowed]  
+- Columns: Gender, Age, Department, Tenure, Ethnicity, Churn/Retention Status  
