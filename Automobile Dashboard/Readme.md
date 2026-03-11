@@ -22,3 +22,5 @@ Automobile dataset used for analysis.
 ## Dashboard Preview
 ![Dashboard](01.png)
 ![Dashboard](02.png)
+![Dashboard](03.png)
+![Dashboard](04.png)
