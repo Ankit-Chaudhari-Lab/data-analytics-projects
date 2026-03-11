@@ -21,7 +21,8 @@ Key features of the analysis:
 
 ## Dashboard / Analysis Preview
 ### Price vs Discount Analysis
-![Price vs Discount](./assets/price_discount.png)
+![Price vs Discount](Amazon3.png)
+![Price vs Discount](Amazon6.png)
 
 ### Rating Trends by Brand
 ![Rating Trends](./assets/rating_trends.png)
