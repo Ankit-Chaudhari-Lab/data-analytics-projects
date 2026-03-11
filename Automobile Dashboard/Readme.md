@@ -20,4 +20,4 @@ Power BI dashboard created to visualize insights.
 Automobile dataset used for analysis.
 
 ## Dashboard Preview
-![Dashboard](01.png)
+![Dashboard](01.png)(02.png)
