@@ -14,7 +14,9 @@ This project analyses customer churn data to identify high-risk customer segment
 - Insights support targeted retention strategies for 1000+ customers
 
 ## Dashboard Screenshot
-![Churn Dashboard](.png)
+![Churn Dashboard](01Churn.png)
+![Churn Dashboard](02Churn.png)
+![Churn Dashboard](03Churn.png)
 
 ## Dataset
 - 7,000+ rows of anonymized customer data  
